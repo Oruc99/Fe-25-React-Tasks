@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin: 0;
+}
+button{
+    height: 30px;
+    margin-left: 10px;
+    width: 50px;
+}
+ul{
+width: 200px;
+text-align: left;
+margin:20px auto;
+}
+li{
+    list-style-position:inside ;
+    margin: 5px;
+    text-wrap: nowrap;
+}
